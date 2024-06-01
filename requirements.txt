@@ -1,0 +1,6 @@
+#pip3 install
+
+streamlit
+numpy
+scikit-learn
+pandas
